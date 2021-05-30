@@ -1,0 +1,75 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXFileReference section */
+		20D794CD2663609D009AB659 /* Chapter1-Expressions_Variables_Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter1-Expressions_Variables_Constants.swift"; sourceTree = "<group>"; };
+		20D794CE26636531009AB659 /* Chapter1-Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter1-Challenge.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		20D794C626636018009AB659 = {
+			isa = PBXGroup;
+			children = (
+				20D794CE26636531009AB659 /* Chapter1-Challenge.swift */,
+				20D794CD2663609D009AB659 /* Chapter1-Expressions_Variables_Constants.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		20D794C726636018009AB659 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1220;
+			};
+			buildConfigurationList = 20D794CA26636018009AB659 /* Build configuration list for PBXProject "LearningSwift" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 20D794C626636018009AB659;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		20D794CB26636018009AB659 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		20D794CC26636018009AB659 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		20D794CA26636018009AB659 /* Build configuration list for PBXProject "LearningSwift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				20D794CB26636018009AB659 /* Debug */,
+				20D794CC26636018009AB659 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 20D794C726636018009AB659 /* Project object */;
+}
