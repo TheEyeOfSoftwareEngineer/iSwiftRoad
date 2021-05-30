@@ -15,12 +15,20 @@
 		20D794D226637DF2009AB659 /* Chapter3-Challenges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter3-Challenges.swift"; sourceTree = "<group>"; };
 		20D794D326638026009AB659 /* Chapter4-AdvancedControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter4-AdvancedControlFlow.swift"; sourceTree = "<group>"; };
 		20D794D426638A8C009AB659 /* Chapter5-Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter5-Functions.swift"; sourceTree = "<group>"; };
+		20D794D52663A301009AB659 /* Chapter6-Optionals.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter6-Optionals.swift"; sourceTree = "<group>"; };
+		20D794D62663AED1009AB659 /* Chapter7-Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter7-Array.swift"; sourceTree = "<group>"; };
+		20D794D72663BF33009AB659 /* Chapter7-Dictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter7-Dictionary.swift"; sourceTree = "<group>"; };
+		20D794D82663BF74009AB659 /* Chapter7-Sets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter7-Sets.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		20D794C626636018009AB659 = {
 			isa = PBXGroup;
 			children = (
+				20D794D82663BF74009AB659 /* Chapter7-Sets.swift */,
+				20D794D72663BF33009AB659 /* Chapter7-Dictionary.swift */,
+				20D794D62663AED1009AB659 /* Chapter7-Array.swift */,
+				20D794D52663A301009AB659 /* Chapter6-Optionals.swift */,
 				20D794D426638A8C009AB659 /* Chapter5-Functions.swift */,
 				20D794D326638026009AB659 /* Chapter4-AdvancedControlFlow.swift */,
 				20D794D226637DF2009AB659 /* Chapter3-Challenges.swift */,
