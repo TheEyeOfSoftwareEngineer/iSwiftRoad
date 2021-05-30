@@ -11,12 +11,20 @@
 		20D794CE26636531009AB659 /* Chapter1-Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter1-Challenge.swift"; sourceTree = "<group>"; };
 		20D794CF2663697E009AB659 /* Chapter2-Types_Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter2-Types_Operations.swift"; sourceTree = "<group>"; };
 		20D794D0266371CB009AB659 /* Chapeter2-Challenges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapeter2-Challenges.swift"; sourceTree = "<group>"; };
+		20D794D12663770E009AB659 /* Chapter3-BasicControiFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter3-BasicControiFlow.swift"; sourceTree = "<group>"; };
+		20D794D226637DF2009AB659 /* Chapter3-Challenges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter3-Challenges.swift"; sourceTree = "<group>"; };
+		20D794D326638026009AB659 /* Chapter4-AdvancedControlFlow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter4-AdvancedControlFlow.swift"; sourceTree = "<group>"; };
+		20D794D426638A8C009AB659 /* Chapter5-Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter5-Functions.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		20D794C626636018009AB659 = {
 			isa = PBXGroup;
 			children = (
+				20D794D426638A8C009AB659 /* Chapter5-Functions.swift */,
+				20D794D326638026009AB659 /* Chapter4-AdvancedControlFlow.swift */,
+				20D794D226637DF2009AB659 /* Chapter3-Challenges.swift */,
+				20D794D12663770E009AB659 /* Chapter3-BasicControiFlow.swift */,
 				20D794D0266371CB009AB659 /* Chapeter2-Challenges.swift */,
 				20D794CF2663697E009AB659 /* Chapter2-Types_Operations.swift */,
 				20D794CE26636531009AB659 /* Chapter1-Challenge.swift */,
