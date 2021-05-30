@@ -9,12 +9,16 @@
 /* Begin PBXFileReference section */
 		20D794CD2663609D009AB659 /* Chapter1-Expressions_Variables_Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter1-Expressions_Variables_Constants.swift"; sourceTree = "<group>"; };
 		20D794CE26636531009AB659 /* Chapter1-Challenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter1-Challenge.swift"; sourceTree = "<group>"; };
+		20D794CF2663697E009AB659 /* Chapter2-Types_Operations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter2-Types_Operations.swift"; sourceTree = "<group>"; };
+		20D794D0266371CB009AB659 /* Chapeter2-Challenges.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapeter2-Challenges.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		20D794C626636018009AB659 = {
 			isa = PBXGroup;
 			children = (
+				20D794D0266371CB009AB659 /* Chapeter2-Challenges.swift */,
+				20D794CF2663697E009AB659 /* Chapter2-Types_Operations.swift */,
 				20D794CE26636531009AB659 /* Chapter1-Challenge.swift */,
 				20D794CD2663609D009AB659 /* Chapter1-Expressions_Variables_Constants.swift */,
 			);
