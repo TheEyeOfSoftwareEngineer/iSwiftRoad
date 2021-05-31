@@ -23,7 +23,7 @@ let day = tuple.Day
 
 // MARK: Find the error
 let name = "Matt"   // constants
-name += " Galloway
+name += " Galloway"
 
 // MARK: What is the type of value?
 let tuple = (100, 1.5, 10)
@@ -36,7 +36,7 @@ let month = tuple.month // 8
 // MARK: What is the value of summary?
 let number = 10
 let multiplier = 5
-let summary = "\(number) multiplied by \(multiplier) equals \(number * multiplier)
+let summary = "\(number) multiplied by \(multiplier) equals \(number * multiplier)"
 // "10 multiplied by 5 equals 50"
 
 // MARK: Compute the value
