@@ -22,12 +22,16 @@
 		20D794D92663C33A009AB659 /* Chapter8-CollectionIterationWithClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter8-CollectionIterationWithClosures.swift"; sourceTree = "<group>"; };
 		20D794DA2663D104009AB659 /* Chapter9-Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter9-Strings.swift"; sourceTree = "<group>"; };
 		20D794DB2664AA51009AB659 /* Chapter10-Structures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter10-Structures.swift"; sourceTree = "<group>"; };
+		20D794DC2664B2EB009AB659 /* Chapter11-Properties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter11-Properties.swift"; sourceTree = "<group>"; };
+		20D794DD2664BD10009AB659 /* Chapter12-Methods.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter12-Methods.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		20D794C626636018009AB659 = {
 			isa = PBXGroup;
 			children = (
+				20D794DD2664BD10009AB659 /* Chapter12-Methods.swift */,
+				20D794DC2664B2EB009AB659 /* Chapter11-Properties.swift */,
 				20D794DB2664AA51009AB659 /* Chapter10-Structures.swift */,
 				20D794DA2663D104009AB659 /* Chapter9-Strings.swift */,
 				20D794D92663C33A009AB659 /* Chapter8-CollectionIterationWithClosures.swift */,
