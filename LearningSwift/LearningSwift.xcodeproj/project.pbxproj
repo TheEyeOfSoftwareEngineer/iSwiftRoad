@@ -21,12 +21,14 @@
 		20D794D82663BF74009AB659 /* Chapter7-Sets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter7-Sets.swift"; sourceTree = "<group>"; };
 		20D794D92663C33A009AB659 /* Chapter8-CollectionIterationWithClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter8-CollectionIterationWithClosures.swift"; sourceTree = "<group>"; };
 		20D794DA2663D104009AB659 /* Chapter9-Strings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter9-Strings.swift"; sourceTree = "<group>"; };
+		20D794DB2664AA51009AB659 /* Chapter10-Structures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Chapter10-Structures.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		20D794C626636018009AB659 = {
 			isa = PBXGroup;
 			children = (
+				20D794DB2664AA51009AB659 /* Chapter10-Structures.swift */,
 				20D794DA2663D104009AB659 /* Chapter9-Strings.swift */,
 				20D794D92663C33A009AB659 /* Chapter8-CollectionIterationWithClosures.swift */,
 				20D794D82663BF74009AB659 /* Chapter7-Sets.swift */,
