@@ -91,11 +91,12 @@ struct SimpleDate {
 // Error!
 let valentinesDay = SimpleDate(month: "February",
                                day: 14)
-
+/*
 init(month: String, day: Int) {
     self.month = month
     self.day = day
 }
+*/
 
 let valentinesDay = SimpleDate(month: "February", day: 14)
 valentinesDay.month // February
